@@ -1,4 +1,4 @@
-# 📖📖 Flutter eBook App [![Codemagic build status](https://api.codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/status_badge.svg)](https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build)
+# 📖📖 Flutter eBook App
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sadiq46483443.svg?style=social)](https://twitter.com/Sadiq46483443?s=08)
 
@@ -12,8 +12,7 @@ are from the [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
 The [Feedbooks API](http://www.feedbooks.com/api) was used to fetch books. <br>
 <br>
 <a href="https://www.vecteezy.com/vector-art/599678-book-reading-logo-and-symbols-template-icons">App
-icon</a> <br> <br>
-To download this app, <a href="https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build">click here</a> to see the codemagic builds. You can choose to install the `apk` or the `ipa(ios)`.
+icon</a> <br> <br>You can choose to install the `apk` or the `ipa(ios)`.
 
 <br> Please star⭐ the repo if you like what you see😉.
 
